@@ -22,7 +22,7 @@ body {
 .form-control {
   border: 1px solid #ced4da;
   outline: 0;
-  transition: border 0.15s, box-shadow 0.15s;
+  transition: border 0.3s, box-shadow 0.3s;
 }
 
 .form-control:focus {
@@ -49,6 +49,7 @@ body {
   border-radius: 40px;
   outline: 0;
   cursor: pointer;
+  transition: background 0.5s;
 }
 
 .btn:hover {
